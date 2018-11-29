@@ -7,9 +7,9 @@
 ## 环境准备
 
 ```bash
-Python version >= 3.6
-cv2
-pytorch >=0.4.1
+Python >= 3.6
+opencv >= 3.4.2
+pytorch >= 0.4.1
 matplotlib.pyplot
 numpy
 ```
