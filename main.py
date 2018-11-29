@@ -146,7 +146,6 @@ for image in images:
                 sub = fig.add_subplot(3, 5, i + 1)
                 sub.set_title(item['layer'])
                 sub.imshow(item['image'])
-                cv2.imwrite('test.png',item['image'])
             plt.show()
         if config.needOutput:
             for item in results:
