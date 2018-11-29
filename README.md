@@ -32,5 +32,5 @@ python main.py [path] commands
 | Command  | Usage |
 | ------------- | ------------- |
 | `-o [path]`  | 输出结果到指定目录  |
-| `-m [path]`  | Content Cell  |
+| `-m [path]`  | 使用指定的参数文件(由`torch.save(net.state_dict(),'filename')`建立)  |
 | Content Cell  | Content Cell  |
