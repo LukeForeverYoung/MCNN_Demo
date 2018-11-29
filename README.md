@@ -31,5 +31,6 @@ python main.py [path] commands
 
 | Command  | Usage |
 | ------------- | ------------- |
-| `-o [path]`  | Content Cell  |
+| `-o [path]`  | 输出结果到指定目录  |
+| `-m [path]`  | Content Cell  |
 | Content Cell  | Content Cell  |
